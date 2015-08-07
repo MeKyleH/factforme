@@ -1,0 +1,3 @@
+Added omniauth for user sign-in on the page.
+Added omniauth-facebook to allow Facebook as a sign in option
+Found one bug when logging in via Facebook.
